@@ -1,4 +1,3 @@
-![wave](https://user-images.githubusercontent.com/87030854/146912994-c04df989-1afd-46f7-bd4e-15f67af09294.gif)
 Hi , I'm Nikhil Kumar
 
 
