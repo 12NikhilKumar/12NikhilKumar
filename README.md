@@ -16,4 +16,4 @@
 
 ### 👯 Other interest: I love traveling and to play cricket.
 
-### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-520300218/) [<img src="https://icon-library.com/images/small-email-icon/small-email-icon-11.jpg" width="25px"> egkumarnikhil16@gmail.com]
+### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-520300218/)
